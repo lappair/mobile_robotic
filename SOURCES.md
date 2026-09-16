@@ -2,31 +2,20 @@
 
 ## ROS 2 Documentation
 
-### Q1 — turtlesim, rqt, and nodes
-
 - Introducing turtlesim and rqt  
   https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Introducing-Turtlesim/Introducing-Turtlesim.html
 
 - Understanding ROS 2 Nodes  
   https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Nodes/Understanding-ROS2-Nodes.html
 
-### Q2, Q4 — ROS 2 Topics
-
 - Understanding ROS 2 Topics  
   https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Topics/Understanding-ROS2-Topics.html
-
-### Q5 — ROS 2 Services and Actions
 
 - Understanding ROS 2 Services  
   https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Services/Understanding-ROS2-Services.html
 
 - Understanding ROS 2 Actions  
   https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Actions/Understanding-ROS2-Actions.html
-
-### Q6, Q7 — Building and Creating ROS 2 Packages
-
-- Using colcon to build packages  
-  https://docs.ros.org/en/humble/Tutorials/Intermediate/Colcon-Tutorial.html
 
 - Creating a ROS 2 package  
   https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Creating-Your-First-ROS2-Package.html
